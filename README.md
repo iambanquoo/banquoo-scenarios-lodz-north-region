@@ -3,6 +3,8 @@
 <img width="1280" height="720" alt="main" src="https://github.com/user-attachments/assets/3d0a2d6c-b36e-4a41-aad3-3b2f125dd250" />  
 Below You can find a list of scenarios currently available in-game with this mod:
 - [Cargo] Łódź Chojny - Kutno
+
+It is also worth noting, that the scenarios are made in a vanilla-like style. Therefore, we use the same libraries as the official in-game scenarios developed by Eridor. The libraries provided are his, not ours.
 # Installation
 ## Automatic download (Steam Workshop)
 The scenario package can be downloaded easily by subscribing to it on the Steam Workshop. Simply visit [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=3783121873) and press **subscribe**. The mod should be downloaded automatically by the Steam Client, and the next time You run the game it should appear in the scenery selection menu.  
