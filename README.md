@@ -25,5 +25,6 @@ It is absolutely possible to contribute to the project, and You do not need to b
 The project authors do not take any donations in any valuable form and are not comfortable doing so. The scenario package is released free-of-charge for the community by the community. If You respect our work and feel like You'd like to donate, feel free to help a struggling family or charity of choice. Help and kindness is always amazing! Thanks!
 # List of authors & contributors.
 Below is a list of people that have contributed to the project, as well as their contact information. We thank them all for their help :D
-- ``banquoo`` (Discord: @iambanquoo, Steam: @banquoo)
-- ``airomer`` (Discord: @airomer, Steam: @airomer)
+- ``banquoo`` LUA coding (Discord: @iambanquoo, Steam: @banquoo)
+- ``airomer`` beta-testing (Discord: @airomer, Steam: @airomer)
+- ``mrhoshi`` Spanish translation (Discord: @marcartigues, Steam: @Mr. Hoshi)
