@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TimeTableStorage>
+  <TrainName>TME</TrainName>
+  <TrainNumber>414693</TrainNumber>
+  <LineNumber>25, 15, 16</LineNumber>
+  <LocoType/>
+  <TrainLength>0</TrainLength>
+  <TrainWeight>0</TrainWeight>
+  <From>Rybnik Towarowy</From>
+  <To>Kutno</To>
+  <StartSpeedLimit>40</StartSpeedLimit>
+  <StartGlobalSpeedLimit>80</StartGlobalSpeedLimit>
+  <StartRadioChannels>
+    <int>5</int>
+  </StartRadioChannels>
+  <WayPoints>
+  
+    <WayPointFromXml>
+      <NameOfPoint>Łódź Chojny</NameOfPoint>
+      <DisplayName>Łódź Chojny</DisplayName>
+      <StopType>technicalStop</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>0</ArrivalTime>
+      <DepartureTime>240</DepartureTime>
+      <RadioChanels>
+        <int>5</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Łódź Kaliska ŁKT pzs</NameOfPoint>
+      <DisplayName>Łódź Kaliska ŁKT pzs</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>660</ArrivalTime>
+      <DepartureTime>660</DepartureTime>
+      <RadioChanels>
+        <int>5</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Łódź Kaliska</NameOfPoint>
+      <DisplayName>Łódź Kaliska</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>720</ArrivalTime>
+      <DepartureTime>720</DepartureTime>
+      <RadioChanels>
+        <int>5</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Łódź Żabieniec</NameOfPoint>
+      <DisplayName>Łódź Żabieniec</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>900</ArrivalTime>
+      <DepartureTime>900</DepartureTime>
+      <RadioChanels>
+        <int>1</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Zgierz</NameOfPoint>
+      <DisplayName>Zgierz</DisplayName>
+      <StopType>technicalStop</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>1200</ArrivalTime>
+      <DepartureTime>1500</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Zgierz Północ</NameOfPoint>
+      <DisplayName>Zgierz Północ</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>1800</ArrivalTime>
+      <DepartureTime>1800</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Zgierz Kontrewers</NameOfPoint>
+      <DisplayName>Zgierz Kontrewers</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>1980</ArrivalTime>
+      <DepartureTime>1980</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Chociszew</NameOfPoint>
+      <DisplayName>Chociszew</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>2400</ArrivalTime>
+      <DepartureTime>2400</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Ozorków</NameOfPoint>
+      <DisplayName>Ozorków</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>2700</ArrivalTime>
+      <DepartureTime>2700</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Łęczyca</NameOfPoint>
+      <DisplayName>Łęczyca</DisplayName>
+      <StopType>technicalStop</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>3180</ArrivalTime>
+      <DepartureTime>3480</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Witonia</NameOfPoint>
+      <DisplayName>Witonia</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>4380</ArrivalTime>
+      <DepartureTime>4380</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+    <WayPointFromXml>
+      <NameOfPoint>Kutno</NameOfPoint>
+      <DisplayName>Kutno</DisplayName>
+      <StopType>noStopover</StopType>
+      <Line>0</Line>
+      <Mileage>0</Mileage>
+      <TrainType>TME</TrainType>
+      <StationCategory/>
+      <StationSpeedLimit>0</StationSpeedLimit>
+      <ArrivalTime>4980</ArrivalTime>
+      <DepartureTime>4980</DepartureTime>
+      <RadioChanels>
+        <int>4</int>
+      </RadioChanels>
+      <plannedStop>0</plannedStop>
+      <leftTrack>0</leftTrack>
+      <track>0</track>
+      <platform/>
+    </WayPointFromXml>
+
+  </WayPoints>
+</TimeTableStorage>

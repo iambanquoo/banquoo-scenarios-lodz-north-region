@@ -1,0 +1,65 @@
+M_E6ACTa=★ ET25 Dragon2 ★
+M_ET22=☆ ET22 [Cargo DLC] ☆
+M_E186=☆ E186 Traxx ☆
+M_EU07x2=☆ 2× EU07 ☆
+M_EU07=EU07
+M_Ty2=Ty2
+M_CD163=☆ CD163 Škoda [CD 163 Series DLC] ☆
+
+M_Easy_Sggrss=★☆☆ Sggrss, 1000t 367m [Cargo DLC]
+M_Med_Sggrss=★★☆ Sggrss, 2000t 527m [Cargo DLC]
+M_Hard_Sggrss=★★★ Sggrss, 3100t 686m [Cargo DLC]
+M_VHard_Sggrss=★★★★ Sggrss, 4400t 686m [Cargo DLC]
+M_Zero_Sggrss=☆☆☆☆ Sggrss, 870t 686m [Cargo DLC]
+
+M_Easy_Sgns=★☆☆ Sgns, 900t 336m [Cargo DLC]
+M_Med_Sgns=★★☆ Sgns, 1900t 533m [Cargo DLC]
+M_Hard_Sgns=★★★ Sgns, 2800t 691m [Cargo DLC]
+M_VHard_Sgns=★★★★ Sgns, 4400t 691m [Cargo DLC]
+M_Zero_Sgns=☆☆☆☆ Sgns, 760t 691m [Cargo DLC]
+
+M_Easy_Sgmmns=★☆☆ Sgmmns, 1000t 317m
+M_Med_Sgmmns=★★☆ Sgmmns, 2100t 479m
+M_Hard_Sgmmns=★★★ Sgmmns, 3200t 587m
+M_VHard_Sgmmns=★★★★ Sgmmns, 4400t 654m
+M_Zero_Sgmmns=☆☆☆☆ Sgmmns, 900t 654m
+
+
+M_0=0:00
+M_1=1:00
+M_2=2:00
+M_3=3:00
+M_4=4:00
+M_5=5:00
+M_6=6:00
+M_7=7:00
+M_8=8:00
+M_9=9:00
+M_10=10:00
+M_11=11:00
+M_12=12:00
+M_13=13:00
+M_14=14:00
+M_15=15:00
+M_16=16:00
+M_17=17:00
+M_18=18:00
+M_19=19:00
+M_20=20:00
+M_21=21:00
+M_22=22:00
+M_23=23:00
+
+Welcome=Welcome to the Łódź Chojny - Kutno scenario. Today you'll drive a train between Łódź Chojny and Kutno. Prepare your locomotive, and report yourself to the dispatcher.
+LCH_Start_1=414693 to Łódź Chojny, reporting ready after a driver swap.
+LCH_Start_2=Copy, setting the route.
+LZ_Proba_1=414693 to Łódź Żabieniec, radio check after channel change.
+LZ_Proba_2=Loud and clear on channel one.
+LZ_Proba_3=Roger.
+Zg_Proba_1=414693 to Zgierz, radio check.
+Zg_Proba_2=Loud and clear. In Zgierz you'll wait a little, another train is occupying the one-track line. For now the entrance only is given.
+Zg_Proba_3=Copy that, entrance only.
+Le_Postoj_1=Łęczyca to 414693.
+Le_Postoj_2=Go on.
+Le_Postoj_3=You'll have to wait as another train will have to pass.
+Le_Postoj_4=Copy that, we will wait.

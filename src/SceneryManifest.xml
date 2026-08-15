@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SceneryManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UID>6b726f57-6873-706f-0000-000000000000</UID>
+  <SceneName>WorldStreamerPlayer</SceneName>
+  <ThumbnailFile>Thumbnail.png</ThumbnailFile>
+  <ThumbnailText>ThumbnailTextKey</ThumbnailText>
+  <MapFile>Map.png</MapFile>
+  <LocationNameHeader>HeaderText</LocationNameHeader>
+  <LocationName>LocationNameKey</LocationName>
+  <Description>SceneryDescriptionKey</Description>
+  <CustomTranslations>
+    <CustomTranslation Key="ThumbnailTextKey">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">Scenarios by Banquoo: DLC Łódź North Region</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">Scenariusze od Banquoo: DLC Łódź North Region</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="HeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">Scenarios by Banquoo for DLCs</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">Scenariusze od Banquoo dla DLC</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="LocationNameKey">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">Additional community-made scenarios for owners of the "Łódź North Region DLC"</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">Dodatkowe scenariusze społecznościowe dla posiadaczy "DLC Łódź North Region"</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="SceneryDescriptionKey">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">Additional scenarios for the simulator from the community for the community, made in LUA. For owners of the "Łódź North Region" DLC.\n\nAuthors:\n@niejestembanquoo, @airomer</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">Dodatkowe scenariusze do symulatora od społeczności dla społeczności, zaprogramowane w LUA. Dla posiadaczy DLC "Łódź North Region"\n\nAutorzy:\n@niejestembanquoo, @airomer</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+  </CustomTranslations>
+</SceneryManifest>

@@ -1,0 +1,65 @@
+M_E6ACTa=★ ET25 Dragon2 ★
+M_ET22=☆ ET22 [Cargo DLC] ☆
+M_E186=☆ E186 Traxx ☆
+M_EU07x2=☆ 2× EU07 ☆
+M_EU07=EU07
+M_Ty2=Ty2
+M_CD163=☆ CD163 Škoda [CD 163 Series DLC] ☆
+
+M_Easy_Sggrss=★☆☆ Sggrss, 1000t 367m [Cargo DLC]
+M_Med_Sggrss=★★☆ Sggrss, 2000t 527m [Cargo DLC]
+M_Hard_Sggrss=★★★ Sggrss, 3100t 686m [Cargo DLC]
+M_VHard_Sggrss=★★★★ Sggrss, 4400t 686m [Cargo DLC]
+M_Zero_Sggrss=☆☆☆☆ Sggrss, 870t 686m [Cargo DLC]
+
+M_Easy_Sgns=★☆☆ Sgns, 900t 336m [Cargo DLC]
+M_Med_Sgns=★★☆ Sgns, 1900t 533m [Cargo DLC]
+M_Hard_Sgns=★★★ Sgns, 2800t 691m [Cargo DLC]
+M_VHard_Sgns=★★★★ Sgns, 4400t 691m [Cargo DLC]
+M_Zero_Sgns=☆☆☆☆ Sgns, 760t 691m [Cargo DLC]
+
+M_Easy_Sgmmns=★☆☆ Sgmmns, 1000t 317m
+M_Med_Sgmmns=★★☆ Sgmmns, 2100t 479m
+M_Hard_Sgmmns=★★★ Sgmmns, 3200t 587m
+M_VHard_Sgmmns=★★★★ Sgmmns, 4400t 654m
+M_Zero_Sgmmns=☆☆☆☆ Sgmmns, 900t 654m
+
+
+M_0=0:00
+M_1=1:00
+M_2=2:00
+M_3=3:00
+M_4=4:00
+M_5=5:00
+M_6=6:00
+M_7=7:00
+M_8=8:00
+M_9=9:00
+M_10=10:00
+M_11=11:00
+M_12=12:00
+M_13=13:00
+M_14=14:00
+M_15=15:00
+M_16=16:00
+M_17=17:00
+M_18=18:00
+M_19=19:00
+M_20=20:00
+M_21=21:00
+M_22=22:00
+M_23=23:00
+
+Welcome=Witaj w scenariuszu towarowym Łódź Chojny - Kutno. Poprowadzisz dzisiaj skład intermodalny na odcinku pomiędzy Łodzią Chojny, a Kutnem.  Przygotuj pociąg do jazdy i zgłoś gotowość dyżurnemu ruchu.
+LCH_Start_1=Łódź Chojny do pociągu 414693, jestem gotów w drogę po podmianie maszynisty.
+LCH_Start_2=Przyjąłem, już podaję semafor.
+LZ_Proba_1=Łódź Żabieniec do 414693, próba radia po zmianie kanału radiowego.
+LZ_Proba_2=Słychać dobrze na kanale pierwszym.
+LZ_Proba_3=Przyjąłem.
+Zg_Proba_1=Zgierz do 414693, próba radia.
+Zg_Proba_2=Słychać poprawnie. W Zgierzu chwilę poczekamy albowiem szlak jest zajęty. Na razie wjazd na bok.
+Zg_Proba_3=Przyjąłem, wjazd na bok.
+Le_Postoj_1=414693 do Łęczycy.
+Le_Postoj_2=Na odbiorze.
+Le_Postoj_3=Podaję wjazd na bok, szlak w kierunku Witonii obecnie jest zajęty.
+Le_Postoj_4=Przyjąłem, wjazd na bok.

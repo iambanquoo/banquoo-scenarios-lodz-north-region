@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UID>ca6f4cb9-a502-4659-bec4-59ff6301cd38</UID>
+  <Required_Level>1</Required_Level>
+  <Train_Type>Cargo</Train_Type>
+  <Scenario_Name>SceneryNameText</Scenario_Name>
+  <Train_Engine_Names>
+    <string>ET25</string>
+    <string>#All_Ingame</string>
+  </Train_Engine_Names>
+  <Train_Car_Names />
+  <Scenario_Start_Time>2026-10-16T12:30:00</Scenario_Start_Time>
+  <Scenario_Lenght>85</Scenario_Lenght>
+  <Difficulty>2</Difficulty>
+  <TrackLenghtInMeters>66666</TrackLenghtInMeters>
+  <SeasonOfTheYear>Autumn</SeasonOfTheYear>
+  <SceneVariant>Default</SceneVariant>
+  <HeaderText>HeaderText</HeaderText>
+  <SubHeaderText>SubHeaderText</SubHeaderText>
+  <MapFile>map.png</MapFile>
+  <MainThumbnailPath>route.png</MainThumbnailPath>
+  <MiniThumbnailPath1>minithumbnails/minithumbnail1.png</MiniThumbnailPath1>
+  <MiniThumbnailPath2>minithumbnails/minithumbnail2.png</MiniThumbnailPath2>
+  <MiniThumbnailPath3>minithumbnails/minithumbnail3.png</MiniThumbnailPath3>
+  <Description>Description</Description>
+  <MissionFile>mission.lua</MissionFile>
+  <TimeTableFile>Timetables/M5.xml</TimeTableFile>
+  <CustomTranslations>
+    <CustomTranslation Key="SceneryNameText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">[Cargo] Łódź Chojny - Kutno</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="Description">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="pl">Poprowadź pociąg intermodalny ze stacji Łódź Chojny do Kutna.\n\nTrasa: Łódź Chojny -> Kutno (80km)\nScenariusz jest konfigurowalny (tabor, pora roku, pogoda, godzina).</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="en">Drive an intermodal train from Łódź Chojny to Kutno.\n\nRoute: Łódź Chojny -> Kutno (80km)\nCustomizable scenario (season, weather, rolling stock, time of day).</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="HeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">Łódź Chojny - Kutno</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+    <CustomTranslation Key="SubHeaderText">
+      <Translations>
+        <CustomTranslationEntry LanguageTag="en">TME 414693 [RR25, 15, 16]</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">TME 414693 [LK25, 15, 16]</CustomTranslationEntry>
+      </Translations>
+    </CustomTranslation>
+  </CustomTranslations>
+  <RequiredDLC>
+    <string>4916490</string>
+  </RequiredDLC>
+</ScenarioManifest>
