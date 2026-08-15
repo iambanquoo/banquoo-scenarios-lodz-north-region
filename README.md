@@ -1,6 +1,8 @@
 # Overview
 *Banquoo Scenarios: Łódź North Region DLC* is a community-made package of scenarios developed for the game *SimRail - The Railway Simulator*, for those who own the *Łódź North Region* DLC. It contains full audio tracks, scenario configuration (rolling stock, weather etc.), and full English support. Check out how to install this scenario package and more, by scrolling below!  
-<img width="1280" height="720" alt="main" src="https://github.com/user-attachments/assets/3d0a2d6c-b36e-4a41-aad3-3b2f125dd250" />
+<img width="1280" height="720" alt="main" src="https://github.com/user-attachments/assets/3d0a2d6c-b36e-4a41-aad3-3b2f125dd250" />  
+Below You can find a list of scenarios currently available in-game with this mod:
+- [Cargo] Łódź Chojny - Kutno
 # Installation
 ## Automatic download (Steam Workshop)
 The scenario package can be downloaded easily by subscribing to it on the Steam Workshop. Simply visit [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=3783121873) and press **subscribe**. The mod should be downloaded automatically by the Steam Client, and the next time You run the game it should appear in the scenery selection menu.  
